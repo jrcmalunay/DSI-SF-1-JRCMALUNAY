@@ -1,4 +1,4 @@
 # DSI-SF-1-JRCMALUNAY
-This is my student repo.
 
-Projects, challenges, etc.
+### Graduate of General Assembly's DSI Program
+This repository contains all of my projects.

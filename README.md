@@ -30,7 +30,7 @@ Final capstone project posted here. **Airbnb's Superhost classification and pred
 ---
 
 **Class of General Assebmly's FIRST DSI program**
-![alt tag](https://snag.gy/JRy37r.jpg)
+![alt tag](https://snag.gy/EoZ64D.jpg)
 
 ---
 

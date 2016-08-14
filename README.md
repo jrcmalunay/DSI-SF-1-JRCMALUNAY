@@ -5,9 +5,9 @@
 This repository contains all of my projects, lab work, and notes I learned from **General Assembly's Data Science Immersive Program**. 
 
 ---
-**Certificate of completion**
-![alt tag](https://snag.gy/xeWY76.jpg)
+
 ## DSI certificate 
+![alt tag](https://snag.gy/xeWY76.jpg)
 
 ---
 

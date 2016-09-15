@@ -12,11 +12,15 @@ This repository contains all of my projects, lab work, and notes I learned from 
 ---
 
 #### Summary
-Truly enjoyed the 12 week program; begging with python fundamentals to machine learning algorithms using big data visualizations. Data minging, data munging, and data cleaning were easily accomplished numpy and pandas packages. In additon, scrapy and xpath using requests for APIs were used to extract data.
+12 week program consisting of python fundamentals to machine learning algorithms using big data visualizations. Data minging, data munging, and data cleaning were easily accomplished pandas and numpy packages. In additon, scrapy and xpath using requests for APIs were used to extract data.
 
 Further analysis needed scikit-learn (machine learning algorithms) such as:
-- KNearest Neighbors
+- Kth Nearest Neighbors
 - Linear and Logistic Regressions 
+- SVM
+_ Ensemble Methods
+- Boosting, Bagging
+- Decision Trees
 - Clustering
 - **NLP** (TfidfVectorizer, CountVectorizer)
 
@@ -33,11 +37,3 @@ Final capstone project posted here. **Airbnb's Superhost classification and pred
 ![alt tag](https://snag.gy/EoZ64D.jpg)
 
 ---
-
-## Check out Justin Malunay!
-
-
-
-
-
-

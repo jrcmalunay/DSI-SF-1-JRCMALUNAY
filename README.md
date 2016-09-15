@@ -24,7 +24,7 @@ _ Ensemble Methods
 - Clustering
 - **NLP** (TfidfVectorizer, CountVectorizer)
 
-Visualizaitons were created using matplotlib and seaborn packages.
+Visualizations were created using matplotlib and seaborn packages.
 
 ---
 
